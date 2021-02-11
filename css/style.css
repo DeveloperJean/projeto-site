@@ -129,6 +129,7 @@ header p {
 
 #fotos img {
     width: 100%;
+    margin: auto;
 }
 
 #contato {
